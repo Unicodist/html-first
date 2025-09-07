@@ -1,0 +1,107 @@
+Basic HTML Tags for Beginners
+
+1. Structure Tags
+
+<!DOCTYPE html>: Declares the document type.
+
+<html>: Root element of the HTML page.
+
+<head>: Contains metadata (not visible on the page).
+
+<title>: Sets the title of the page (shown in browser tab).
+
+<body>: Contains the visible content of the page.
+
+2. Text Content Tags
+
+<h1> to <h6>: Headings, from largest (<h1>) to smallest (<h6>).
+
+<p>: Defines a paragraph.
+
+<br>: Inserts a line break.
+
+<hr>: Inserts a horizontal rule (line).
+
+<strong>: Defines strong (bold) text.
+
+<em>: Defines emphasized (italic) text.
+
+<span>: Inline container for text.
+
+3. Links and Media Tags
+
+<a>: Creates a hyperlink.
+
+<img>: Embeds an image.
+
+<video>: Embeds a video player.
+
+<audio>: Embeds an audio player.
+
+<source>: Specifies media source for video or audio.
+
+4. Layout and Container Tags
+
+<div>: Generic block-level container.
+
+<section>: Defines a section in a document.
+
+<article>: Defines independent content.
+
+<nav>: Defines navigation links.
+
+<header>: Represents a header for a section or page.
+
+<footer>: Represents a footer for a section or page.
+
+<main>: Specifies the main content.
+
+<aside>: Represents content aside from the main content.
+
+5. List Tags
+
+<ul>: Unordered list.
+
+<ol>: Ordered list.
+
+<li>: List item.
+
+<dl>: Description list.
+
+<dt>: Term in a description list.
+
+<dd>: Description of the term.
+
+6. Forms and Inputs Tags
+
+<form>: Defines a form.
+
+<input>: Single-line input field.
+
+<textarea>: Multi-line text input.
+
+<button>: Clickable button.
+
+<label>: Defines a label for an input.
+
+<select>: Drop-down list.
+
+<option>: Defines an option in a drop-down list.
+
+7. Other Common Tags
+
+<table>: Defines a table.
+
+<tr>: Table row.
+
+<td>: Table data cell.
+
+<th>: Table header cell.
+
+<meta>: Provides metadata (e.g., charset, viewport).
+
+<link>: Links external resources (like stylesheets).
+
+<script>: Embeds or references JavaScript.
+
+// Html, Css and JavaScript
